@@ -224,5 +224,53 @@ font-size:20px;
 
 }
 
+}
 
+/* ==========================
+   Global Typography
+========================== */
+
+body{
+    font-size:19px;
+    line-height:1.8;
+}
+
+h1{
+    font-size:3.5rem;
+    font-weight:700;
+}
+
+h2{
+    font-size:2.7rem;
+    font-weight:700;
+}
+
+h3{
+    font-size:2.2rem;
+    font-weight:600;
+}
+
+h4{
+    font-size:1.8rem;
+    font-weight:600;
+}
+
+p{
+    font-size:1.2rem;
+}
+
+/* Hero Images */
+
+.hero img{
+    width:420px;
+    max-width:100%;
+    height:auto;
+}
+
+/* About Image */
+
+.about-img{
+    width:420px;
+    max-width:100%;
+    height:auto;
 }
